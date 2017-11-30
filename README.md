@@ -1,16 +1,14 @@
 # advert-free-radio
-Essentially, this program should take a live radio stream and replace annoying adverts by music similar to what was streaming.
+This program can be used to listen to internet or conventional radio advert free. It overlays the adverts with songs from your library or songs similar to what were playing. In this version, the overlay needs fixing.
+# WIP
+## Installation
+Currently supported on Windows 10 only. 
 
-# Still a WIP
-## INSTALLATION
-Currently runs on Windows only. 
-```
 Download and install the following dependencies:
 - [acrcloud](https://github.com/acrcloud/acrcloud_sdk_python)
 - [pygn](https://github.com/cweichen/pygn)
 - [mp3splt](http://mp3splt.sourceforge.net/mp3splt_page/downloads.php)
 - [youtube-dl](https://rg3.github.io/youtube-dl/)
-- (add remaining)
-```
+
 ## Instructions 
-Run 'mainBranch.py' after editing the input file name.
+Run 'mainBranch.py' after editing the input file name. This file can be a recording of the radio. Play the out.mp3 file to listen to the entire clip advert free.
