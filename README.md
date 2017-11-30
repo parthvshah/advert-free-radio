@@ -1,6 +1,14 @@
 # advert-free-radio
 This program can be used to listen to internet or conventional radio advert free. It overlays the adverts with songs from your library or songs similar to what were playing. In this version, the overlay needs fixing.
+
 # WIP
+This program is still under developement.
+Future updates include:
+- Switching from ACR-Cloud for the fingerprinting by building our own library of adverts for a particular region
+- Live overlays for truly advert free streaming of radio
+- Developing an application of sorts to enable use of this program
+- Physical 'switch' button to ensure an advert is always skipped
+
 ## Installation
 Currently supported on Windows 10 only. 
 
